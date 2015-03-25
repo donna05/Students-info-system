@@ -1,0 +1,26 @@
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\bin\Debug\SIS System.exe
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\bin\Debug\SIS System.pdb
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\bin\Debug\SIS System.xml
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.vbproj.GenerateResource.Cache
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.exe
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.xml
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.pdb
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.LoginForm2.resources
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.LoginForm3.resources
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.admin.resources
+C:\Users\Donna Jane\Desktop\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.exe
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.xml
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.pdb
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.admin.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.LoginForm2.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\SIS System.vbproj.GenerateResource.Cache
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\bin\Debug\SIS System.exe
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\bin\Debug\SIS System.pdb
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\bin\Debug\SIS System.xml
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.student.resources
+C:\Users\Donna Jane\Desktop\VBPROJEC\vb project\SIS System\SIS System\obj\x86\Debug\WindowsApplication1.Form2.resources
